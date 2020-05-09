@@ -1,0 +1,10 @@
+click==7.1.2
+enum34==1.1.10
+kflash==0.8.5
+pkg-resources==0.0.0
+pyelftools==0.26
+pyserial==3.4
+python-dotenv==0.13.0
+pyudev==0.22.0
+rshell==0.0.28
+six==1.14.0
